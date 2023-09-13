@@ -9,37 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP02___SWII6
 build_property.RootNamespace = TP02___SWII6
-build_property.ProjectDir = C:\Users\iport-dev\Documents\Projetos\TP02 - SWII6\
+build_property.ProjectDir = C:\Users\Luiz Gustavo\Documents\ProjetosSWII\SWII6\SW-TP02\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\iport-dev\Documents\Projetos\TP02 - SWII6
+build_property.MSBuildProjectDirectory = C:\Users\Luiz Gustavo\Documents\ProjetosSWII\SWII6\SW-TP02
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/iport-dev/Documents/Projetos/TP02 - SWII6/Views/Home/Index.cshtml]
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Conteiner/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVpbmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Conteiner/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVpbmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Conteiner/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVpbmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Conteiner/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVpbmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Conteiner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVpbmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/DocumentoBL/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvQkxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/DocumentoBL/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvQkxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/DocumentoBL/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvQkxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/DocumentoBL/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvQkxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/DocumentoBL/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRvQkxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iport-dev/Documents/Projetos/TP02 - SWII6/Views/Home/Privacy.cshtml]
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iport-dev/Documents/Projetos/TP02 - SWII6/Views/Shared/Error.cshtml]
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iport-dev/Documents/Projetos/TP02 - SWII6/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iport-dev/Documents/Projetos/TP02 - SWII6/Views/_ViewImports.cshtml]
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iport-dev/Documents/Projetos/TP02 - SWII6/Views/_ViewStart.cshtml]
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/iport-dev/Documents/Projetos/TP02 - SWII6/Views/Shared/_Layout.cshtml]
+[C:/Users/Luiz Gustavo/Documents/ProjetosSWII/SWII6/SW-TP02/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pquo7ndkh4

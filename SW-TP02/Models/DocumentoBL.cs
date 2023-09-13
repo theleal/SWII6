@@ -13,15 +13,15 @@ namespace TP02___SWII6.Models
         [Column(TypeName = "VARCHAR(25)")] 
         public string NumeroDocumento { get; set; } = string.Empty;
 
-        [Required] 
+        [Required]
+        [Column(TypeName = "VARCHAR(25)")]
         public string Consignee { get; set; } = string.Empty;
 
-        [Required] 
+        [Required]
+        [Column(TypeName = "VARCHAR(25)")]
         public string Navio { get; set; } = string.Empty;
 
-
-        [Required]
-        public ICollection<Conteiner> Conteineres { get; set; }
+        public ICollection<Conteiner?> Conteineres { get; set; } = new List<Conteiner>();
 
     }
 }

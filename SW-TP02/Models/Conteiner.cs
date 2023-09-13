@@ -6,7 +6,7 @@ namespace TP02___SWII6.Models
 {
     public class Conteiner
     {
-        [Key] 
+        [Key]
         public int ID { get; set; }
 
         [Required]
@@ -21,5 +21,9 @@ namespace TP02___SWII6.Models
         [Required]
         [Column(TypeName = "SMALLINT")]
         public Tamanho Tamanho { get; set; }
+
+        [ForeignKey("DocumentoBL")]
+        public int ID_DocumentoBL { get; set; }
+        public virtual DocumentoBL? DocumentoBL { get; set; }
     }
 }
