@@ -35,8 +35,7 @@ namespace TP02___SWII6.Controllers
                 return NotFound();
             }
 
-            var documentoBL = await _context.DocumentosBL
-                .FirstOrDefaultAsync(m => m.ID == id);
+            var documentoBL = await _context.DocumentosBL.Include(m => m.Conteineres).FirstOrDefaultAsync(m => m.ID == id);
             if (documentoBL == null)
             {
                 return NotFound();

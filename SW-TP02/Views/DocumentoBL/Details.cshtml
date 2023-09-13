@@ -27,6 +27,14 @@
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Navio)
+            @foreach(var conteiner in Model.Conteineres)
+            {
+                <h1>
+                    @conteiner.NumeroConteiner;
+                </h1>
+            }
+
+
         </dd>
     </dl>
 </div>
