@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using TP02___SWII6.Models;
-
+// Luiz Gustavo Leal Cortez
+// Rodrigo Rebelo
 namespace TP02___SWII6.Controllers
 {
     public class HomeController : Controller
